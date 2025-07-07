@@ -1,5 +1,5 @@
 # 💼 Professional Profile: Full Stack Application Dev | DevOps  
-👨‍💻 Developer from India 🇮🇳
+## 👨‍💻 Developer from India 🇮🇳
 
 ## 🛠️ Core Competencies  
 **Full Stack Development** | **Infrastructure as Code**
