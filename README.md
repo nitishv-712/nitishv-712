@@ -5,7 +5,10 @@
 **Full Stack Development** | **Infrastructure as Code**
 
 ## 🔥 Activity Metrics  
-![GitHub Commitment Metrics](https://github-readme-streak-stats.herokuapp.com/?user=nitishv-712&theme=dark&hide_border=true&background=0D1117&stroke=2D7FF9&ring=2D7FF9&fire=F86624&currStreakLabel=2D7FF9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitishv-712&theme=dark&hide_border=true&background=0D1117&stroke=2D7FF9&ring=2D7FF9&fire=F86624&currStreakLabel=2D7FF9)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishv-712&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117)
+
 
 ## 📊 Technical Dashboard  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishv-712&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D7FF9&icon_color=F86624&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Development+Metrics)  
