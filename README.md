@@ -2,7 +2,7 @@
 ## 👨‍💻 Developer from India 🇮🇳
 
 ## 🛠️ Core Competencies  
-**Full Stack Development** | **Infrastructure as Code**
+**Full Stack Development** | **Node.js** | **Flutter**
 
 ## 🔥 Activity Metrics  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nitishv-712&theme=dark&hide_border=true&background=0D1117&stroke=2D7FF9&ring=2D7FF9&fire=F86624&currStreakLabel=2D7FF9)
