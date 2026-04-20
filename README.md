@@ -48,8 +48,3 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitishv-712&theme=github-dark&hide_border=true&area=true&custom_title=Development+Activity&color=2D7FF9)
 
 ---
-
-## 🏗️ Notable Work
-* **Giza**: A high-performance Flutter music player leveraging `yt-dlp` for seamless streaming.
-* **Messaging Engine**: Scalable Node.js/RabbitMQ backend designed for automated, high-volume communications.
-* **Security Auditing**: Specialized in JWT rotation, RBAC, and network security testing.
