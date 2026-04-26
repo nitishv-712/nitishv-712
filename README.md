@@ -47,6 +47,4 @@
 ### 📈 Activity Overview
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitishv-712&theme=github-dark&hide_border=true&area=true&custom_title=Development+Activity&color=2D7FF9)
 
-
-
 ---
